@@ -11,4 +11,7 @@ https://raw.githubusercontent.com/jerridev/300X-US/main/update.json
   Füge diesen Link ein:
 https://raw.githubusercontent.com/jerridev/300X-US/main/update.json
 - Klicke auf Update und verlasse das Menü.
-- In der NIU-App soll jetzt ein neues Update erscheinen. 
+- In der NIU-App soll jetzt ein neues Update erscheinen.
+
+
+#### Danke an Austrochad für die Firmware
