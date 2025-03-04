@@ -1,0 +1,15 @@
+{
+    "data": {
+        "items": [
+            {
+                "devicetype": "FOC",
+                "hasnew": true,
+                "version": "KBE01M02",
+                "date": "1737504000000",
+                "size": "29696",
+                "url": "https://github.com/jerridev/300X-US/raw/main/KBE01M02.bin",
+                "md5": "86288174560D2190D75251707EE3996C"
+            }
+        ]
+    }
+}
