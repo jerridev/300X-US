@@ -1,8 +1,10 @@
 # NIU KQi300X US Firmware
 
-### JSON Update Link
+### US JSON Update Link
 https://raw.githubusercontent.com/jerridev/300X-US/main/update.json
 
+### EU JSON Update Link
+https://raw.githubusercontent.com/jerridev/300X-US/main/updateEU.json
 
 ## Tutorial
 - Lade die gemoddete NIU App runter (Android): https://mega.nz/file/V01TVagK#Mw7OVa8gaJmrQb76mKMFnU3mWu4DmnS30eGigmxLHc4
